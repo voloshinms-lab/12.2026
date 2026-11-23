@@ -1,0 +1,8 @@
+yaml
+name: Build Gertner Tides APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
